@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
 
 <!--
 **Jose27luis/jose27luis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
