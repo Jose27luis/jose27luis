@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Métricas de GitHub](https://metrics.lecoq.io/Jose27luis?template=classic&base=header,repositories,metadata)
+![Métricas de GitHub](https://metrics.lecoq.io/insights?user=Jose27luis)
 
 <!--
 **Jose27luis/jose27luis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
