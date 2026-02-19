@@ -14,13 +14,27 @@
 | **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
 
 ---
+---
+<div align="center">
+  <h1>Jose Luis (Teco)</h1>
+  <p><b>Software Engineer | Systems Engineering Specialist</b></p>
 
-### 📊 Engine Performance
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jose27luis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose27luis&layout=compact&theme=tokyonight&hide_border=true)
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+<br/>
 
 ---
 
+### 📈 Activity Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose27luis&layout=compact&theme=vision-friendly-dark&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jose27luis&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="45%" />
+</p>
 <!--
 **Jose27luis/jose27luis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
