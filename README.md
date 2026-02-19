@@ -1,6 +1,6 @@
 # Jose Luis (Teco) | Software Engineer
 
-> "Simplicity is the soul of efficiency." 
+> "Ingeniero de Software enfocado en la construcción de sistemas robustos y escalables. Me especializo en la arquitectura de aplicaciones Fullstack utilizando ecosistemas modernos de JavaScript/TypeScript, con un fuerte enfoque en la optimización de bases de datos y la automatización de procesos mediante contenedores y CI/CD." 
 
 ---
 
@@ -15,37 +15,28 @@
 
 ---
 ---
-<div align="center">
-  <h1>Jose Luis (Teco)</h1>
-  <p><b>Software Engineer | Systems Engineering Specialist</b></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jose27luis&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+</p>
+---
 
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
+### 🔥 Mis Contribuciones en GitHub
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jose27luis&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jose27luis&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jose27luis&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
-### 📈 Activity Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose27luis&layout=compact&theme=vision-friendly-dark&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jose27luis&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="45%" />
+### 🛠️ Herramientas y Entorno de Desarrollo
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,linux,postman,npm,powershell,vim,bash,jest,ts" />
+  </a>
 </p>
-<!--
-**Jose27luis/jose27luis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
