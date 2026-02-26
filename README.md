@@ -1,4 +1,4 @@
-# Jose Luis (Teco) | Software Engineer
+# Jose Luis (Tequito) | Software Engineer
 
 > "Ingeniero de Software enfocado en la construcción de sistemas robustos y escalables. Me especializo en la arquitectura de aplicaciones Fullstack utilizando ecosistemas modernos de JavaScript/TypeScript, con un fuerte enfoque en la optimización de bases de datos y la automatización de procesos mediante contenedores y CI/CD." 
 
