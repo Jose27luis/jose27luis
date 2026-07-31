@@ -55,35 +55,63 @@ A continuación incluyo proyectos seleccionados de mi portafolio (enlace al repo
 ---
 
 ## 📊 KPIs del portafolio (actuales)
-Estos KPIs se calcularon automáticamente sobre los repositorios públicos al momento de la actualización del README.
+Estos KPIs se obtuvieron automáticamente de los repositorios públicos al momento de la actualización del README.
 
 - Repositorios públicos: 34
 - Estrellas totales: 1
 - Proyectos destacados incluidos: 8
 
-KPIs sugeridos por proyecto (plantilla — rellena los valores reales o pídeme que los obtenga):
+KPIs por proyecto (públicos)
+
 - Amantix
   - ⭐ Stars: 0
   - 🍴 Forks: 0
-  - Último commit: (rellenar)
-  - Demo / URL de producción: (rellenar)
-  - Usuarios/visitas (si aplica): (rellenar)
+  - Último push: 2026-06-22T02:48:58Z
+  - Repo: https://github.com/Jose27luis/Amantix
 
 - Busca-YA
   - ⭐ Stars: 0
   - 🍴 Forks: 0
-  - Último commit: (rellenar)
-  - Demo / URL: (rellenar)
-  - Usuarios/impacto: (ej. integraciones con X sistemas)
+  - Último push: 2026-07-15T18:39:53Z
+  - Repo: https://github.com/Jose27luis/Busca-YA
 
 - Render_tgm
   - ⭐ Stars: 0
   - 🍴 Forks: 0
-  - Último commit: (rellenar)
-  - Demo / URL: (rellenar)
-  - Métrica técnica destacada: (ej. mejora PSNR/SSIM, latencia de procesamiento)
+  - Último push: 2025-06-21T15:56:57Z
+  - Repo: https://github.com/Jose27luis/Render_tgm
 
-(continúa para cada proyecto según necesites)
+- SISLEDA
+  - ⭐ Stars: 0
+  - 🍴 Forks: 0
+  - Último push: 2026-05-29T17:23:47Z
+  - Repo: https://github.com/Jose27luis/SISLEDA
+
+- SocratIA
+  - ⭐ Stars: 0
+  - 🍴 Forks: 0
+  - Último push: 2026-06-15T14:34:24Z
+  - Repo: https://github.com/Jose27luis/SocratIA
+
+- Sumaqta-movil
+  - ⭐ Stars: 0
+  - 🍴 Forks: 0
+  - Último push: 2026-07-01T02:44:42Z
+  - Repo: https://github.com/Jose27luis/Sumaqta-movil
+
+- Proyecto-Vigilancia
+  - ⭐ Stars: 0
+  - 🍴 Forks: 0
+  - Último push: 2025-05-03T00:12:00Z
+  - Repo: https://github.com/Jose27luis/Proyecto-Vigilancia
+
+- web2
+  - ⭐ Stars: 1
+  - 🍴 Forks: 0
+  - Último push: 2025-05-26T20:54:32Z
+  - Repo: https://github.com/Jose27luis/web2
+
+---
 
 KPIs técnicos recomendados para incluir cuando los tengas:
 - Tiempo medio de respuesta (API)
@@ -94,7 +122,7 @@ KPIs técnicos recomendados para incluir cuando los tengas:
 - Cobertura de tests (%) y estado de CI
 - Reducción de errores/performance tras cambios (p. ej. “reduje latencia 40%”)
 
-Si quieres, puedo rellenar automáticamente los valores públicos (stars, forks, último commit) por proyecto y añadirlos en el README. También puedo añadir badges de CI/coverage/demo/instalación.
+Si quieres, puedo añadir badges automáticos (stars/forks/last-commit), capturas, o completar métricas internas si me das los valores.
 
 ---
 
@@ -114,8 +142,8 @@ Si quieres, puedo rellenar automáticamente los valores públicos (stars, forks,
 ---
 
 ¡Si quieres, ahora puedo:
-- A) Rellenar automáticamente KPIs públicos por proyecto (stars, forks, último commit) y actualizar el README.
-- B) Añadir screenshots y GIFs de cada proyecto.
+- A) Añadir badges automáticos (stars, forks, último-commit) por proyecto y actualizar el README.
+- B) Añadir screenshots y GIFs de cada proyecto (necesito imágenes o permiso para generarlas).
 - C) Añadir badges de CI/coverage y un botón de demo para proyectos desplegados.
 
 Dime qué prefieres y lo hago ahora.
