@@ -1,18 +1,121 @@
-# Jose Teco (Tequito) 
-# 💫 Acerca de mi:
-Ingeniero de Software enfocado en la construcción de sistemas robustos y escalables. Me especializo en la arquitectura de aplicaciones Fullstack utilizando ecosistemas modernos de JavaScript/TypeScript, con un fuerte enfoque en la optimización de bases de datos y la automatización de procesos mediante contenedores y CI/CD
+# Jose Teco (Tequito)
 
+## 💫 Acerca de mí
+Ingeniero de Software Fullstack apasionado por construir sistemas robustos y escalables. Me especializo en arquitecturas modernas con JavaScript/TypeScript, diseño de APIs y despliegues en la nube. Me interesa resolver problemas reales mediante soluciones limpias, pruebas automatizadas y buenas prácticas de ingeniería.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+## 💻 Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jose27luis&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+
+## 🚀 Proyectos destacados
+A continuación incluyo proyectos seleccionados de mi portafolio (enlace al repo y descripción corta). Si quieres que destaque otros o añada capturas/demo, los incorporo.
+
+- Amantix — Sitio web corporativo
+  - Descripción: Sitio web de mi empresa Amantix Technology.
+  - Lenguaje principal: HTML
+  - Repo: https://github.com/Jose27luis/Amantix
+
+- Busca-YA — Portal de investigación y modernización de MediaWiki
+  - Descripción: Trabajo de investigación: extensión y modernización de MediaWiki mediante un portal propio (Angular + Laravel) e integración de módulos de Inteligencia Artificial (chatbot conversacional, búsqueda semántica y generación/asistencia de contenido).
+  - Lenguaje principal: PHP
+  - Repo: https://github.com/Jose27luis/Busca-YA
+
+- Render_tgm — Mejora de imágenes y video para videovigilancia
+  - Descripción: Plataforma web full-stack que mejora imágenes y video de videovigilancia con MBLLEN-CNN y Real-ESRGAN; frontend React + Material UI, backend Node/Express + FastAPI, MySQL y despliegue Docker/Tailscale.
+  - Lenguaje principal: Python
+  - Repo: https://github.com/Jose27luis/Render_tgm
+
+- SISLEDA — Plataforma para defensores ambientales
+  - Descripción: Plataforma web para el registro, seguimiento y reporte de procesos legales y amenazas vinculadas a defensores ambientales y territorios comunales en Madre de Dios.
+  - Repo: https://github.com/Jose27luis/SISLEDA
+
+- SocratIA — Tutoría inteligente adaptativa
+  - Descripción: Sistema de tutoría inteligente integrado a Canvas LMS que personaliza el acompañamiento del estudiante mediante técnicas de IA.
+  - Lenguaje principal: JavaScript
+  - Repo: https://github.com/Jose27luis/SocratIA
+
+- Sumaqta-movil — Aplicación móvil
+  - Descripción: Aplicación móvil para los mozos de Sumaqta.
+  - Lenguaje principal: TypeScript
+  - Repo: https://github.com/Jose27luis/Sumaqta-movil
+
+- Proyecto-Vigilancia — Sistema de videovigilancia para seguridad ciudadana
+  - Descripción: Proyecto para mejorar la calidad de vida mediante análisis de cámaras de seguridad.
+  - Lenguaje principal: JavaScript
+  - Repo: https://github.com/Jose27luis/Proyecto-Vigilancia
+
+- web2 — Proyecto final (full-stack)
+  - Descripción: Proyecto final (full-stack).
+  - Lenguaje principal: JavaScript
+  - Repo: https://github.com/Jose27luis/web2
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jose27luis&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 KPIs del portafolio (actuales)
+Estos KPIs se calcularon automáticamente sobre los repositorios públicos al momento de la actualización del README.
 
+- Repositorios públicos: 34
+- Estrellas totales: 1
+- Proyectos destacados incluidos: 8
+
+KPIs sugeridos por proyecto (plantilla — rellena los valores reales o pídeme que los obtenga):
+- Amantix
+  - ⭐ Stars: 0
+  - 🍴 Forks: 0
+  - Último commit: (rellenar)
+  - Demo / URL de producción: (rellenar)
+  - Usuarios/visitas (si aplica): (rellenar)
+
+- Busca-YA
+  - ⭐ Stars: 0
+  - 🍴 Forks: 0
+  - Último commit: (rellenar)
+  - Demo / URL: (rellenar)
+  - Usuarios/impacto: (ej. integraciones con X sistemas)
+
+- Render_tgm
+  - ⭐ Stars: 0
+  - 🍴 Forks: 0
+  - Último commit: (rellenar)
+  - Demo / URL: (rellenar)
+  - Métrica técnica destacada: (ej. mejora PSNR/SSIM, latencia de procesamiento)
+
+(continúa para cada proyecto según necesites)
+
+KPIs técnicos recomendados para incluir cuando los tengas:
+- Tiempo medio de respuesta (API)
+- Latencia media y p95
+- Número de usuarios activos (MAU/DAU)
+- Descargas o instalaciones (apps móviles)
+- Disponibilidad / uptime
+- Cobertura de tests (%) y estado de CI
+- Reducción de errores/performance tras cambios (p. ej. “reduje latencia 40%”)
+
+Si quieres, puedo rellenar automáticamente los valores públicos (stars, forks, último commit) por proyecto y añadirlos en el README. También puedo añadir badges de CI/coverage/demo/instalación.
+
+---
+
+## 🧭 Cómo ejecutar (ejemplo rápido para proyectos con frontend/backend)
+1. Clona el repo: `git clone https://github.com/Jose27luis/<repo>.git`
+2. Entra al directorio: `cd <repo>`
+3. Instala dependencias: `npm install` o `pip install -r requirements.txt`
+4. Ejecuta en modo desarrollo: `npm run dev` o `python main.py`
+
+---
+
+## 📫 Contacto
+- Email: tu-email@ejemplo.com
+- LinkedIn: https://www.linkedin.com/in/tu-perfil
+- Disponibilidad: Abierto a colaboraciones y oportunidades
+
+---
+
+¡Si quieres, ahora puedo:
+- A) Rellenar automáticamente KPIs públicos por proyecto (stars, forks, último commit) y actualizar el README.
+- B) Añadir screenshots y GIFs de cada proyecto.
+- C) Añadir badges de CI/coverage y un botón de demo para proyectos desplegados.
+
+Dime qué prefieres y lo hago ahora.
