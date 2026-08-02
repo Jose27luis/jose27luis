@@ -8,14 +8,4 @@ Ingeniero de Software Fullstack apasionado por construir sistemas robustos y esc
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jose27luis&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 
-
----
-
-¡Si quieres, ahora puedo:
-- A) Añadir badges automáticos (stars, forks, último-commit) por proyecto y actualizar el README.
-- B) Añadir screenshots y GIFs de cada proyecto (necesito imágenes o permiso para generarlas).
-- C) Añadir badges de CI/coverage y un botón de demo para proyectos desplegados.
-
-Dime qué prefieres y lo hago ahora.
